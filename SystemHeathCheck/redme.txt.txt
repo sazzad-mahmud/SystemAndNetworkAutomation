@@ -1,0 +1,2 @@
+This will check the linux servers CPU usages and Disk space whether it is normal or error. 
+If cpu usages goes above 75 percent or availabe disk space under 20 percent will give an alert. 
